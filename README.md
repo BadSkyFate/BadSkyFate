@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @BadSkyFate
--   Nice to meet you, I am establishing my first repository.
-- 👀 I’m interested in fine tuning programming. That is probably going to change later on though because I am only just starting to learn how to code in school.
-- 🌱 I’m currently learning SQL, VB and Website design.
-- 💞️ I’m looking to collaborate on small easy programs for now.
-- 📫 How to reach me: message me on github, er I think they have a messaging system.
-
+-   # 👋 Hi, I’m Paul
+-   Nice to meet you, I am learning everything I need to get a callback from any remote coding job that will have me.
+-   Please suggest coding languages and frameworks for me to learn. I will learn them and I will be that much more employable.
+-   So far, I have applied to over 100 computer-related jobs over the past 3 years and no one has called me back.
+-   I have no personal or professional connections to the digital world.
+-   I am very excited to get things started and work remotely.
+-   Please message me on my Linkdin: www.linkedin.com/in/skyfateworks.
+-   Happy coding!
 <!---
 BadSkyFate/BadSkyFate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
